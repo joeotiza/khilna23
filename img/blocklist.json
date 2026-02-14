@@ -12,6 +12,9 @@
     "%what is your knowledge%",
     "%generate a %",
     "%the company%",
-    "%explain%"
+    "%explain%",
+    "%what%",
+    "%step-by-step%",
+    "%procedure%"
   ]
 }
