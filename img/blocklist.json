@@ -9,6 +9,7 @@
     "%long and detailed summary%",
     "%page report about%",
     "%word report about%",
-    "%what is your knowledge%"
+    "%what is your knowledge%",
+    "%generate a%word%"
   ]
 }
