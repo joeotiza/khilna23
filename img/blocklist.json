@@ -11,6 +11,7 @@
     "%word report about%",
     "%what is your knowledge%",
     "%generate a %",
-    "%the company%"
+    "%the company%",
+    "%explain%"
   ]
 }
