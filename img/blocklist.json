@@ -26,6 +26,7 @@
     "%complete%",
     "%process%",
     "%explain why%",
-    "%possible reason%"
+    "%possible reason%",
+    "%a%"
   ]
 }
