@@ -37,6 +37,8 @@
     "%account 123456%",
     "%unacceptable%",
     "%escalate%",
-    "%not me%"
+    "%not me%",
+    "%your fault%",
+    "%immediately%",
   ]
 }
